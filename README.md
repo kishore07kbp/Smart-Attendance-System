@@ -2,9 +2,9 @@
 
 | Category | Technologies |
 |-----------|-------------|
-| Frontend | React.js, HTML5, CSS3, Bootstrap |
+| Frontend | React.js, HTML5, Vanilla CSS |
 | Backend | Node.js, Express.js |
-| Database | MongoDB |
+| Database | MongoDB Atlas |
 | Mobile App | Flutter |
 | IoT | ESP32 |
 | Communication | MQTT, Bluetooth Low Energy (BLE) |
