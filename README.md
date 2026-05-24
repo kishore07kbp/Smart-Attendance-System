@@ -1,3 +1,7 @@
+# Smart Attendance System
+
+Smart Attendance System using MERN Stack, Flutter, and IoT (ESP32 + MQTT).
+
 ## Technology Stack
 
 | Category | Technologies |
@@ -10,9 +14,16 @@
 | Communication | MQTT, Bluetooth Low Energy (BLE) |
 | Tools | VS Code, Git, GitHub, Postman, MongoDB Compass |
 
-# Smart Attendance System
+## Project Repositories
 
-Smart Attendance System using MERN Stack, Flutter, and IoT (ESP32 + MQTT).
+### Frontend (React)
+https://github.com/kishore07kbp/attendance-frontend
+
+### Backend (Node.js + Express + MongoDB)
+https://github.com/kishore07kbp/attendance-backend
+
+### Flutter App (Bunk Tracer)
+https://github.com/kishore07kbp/bunk-tracer
 
 ## Features
 - Live Face Scanning for student identity verification.
@@ -30,13 +41,3 @@ Smart Attendance System using MERN Stack, Flutter, and IoT (ESP32 + MQTT).
 - Low-cost, scalable IoT-based attendance infrastructure.
 - Reduced manual effort and improved attendance accuracy.
 
-## Project Repositories
-
-### Frontend (React)
-https://github.com/kishore07kbp/attendance-frontend
-
-### Backend (Node.js + Express + MongoDB)
-https://github.com/kishore07kbp/attendance-backend
-
-### Flutter App (Bunk Tracer)
-https://github.com/kishore07kbp/bunk-tracer
